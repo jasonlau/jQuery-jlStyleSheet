@@ -1,7 +1,7 @@
 /* 
     jlStyleSheet - jQuery plugin
     ==================================================================
-    ©2010 JasonLau.biz - Version 1.0.4
+    Â©2010 JasonLau.biz - Version 1.0.4
     ==================================================================
     This program is free software: you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
